@@ -36,6 +36,7 @@
 	32. [White](#White)
 	33. [Wind](#Wind)
 	34. [Yellow](#Yellow)
+
 2. [Best Jaras & Snacks per Boss](#boss)
 	1. [B-001 - Madusa](#B-001)
 	2. [B-002 - Euriley](#B-002)
@@ -75,6 +76,7 @@
 	36. [B-036 - Dark Falgrim](#B-036)
 	37. [B-037 - The Evil Overlord Aldante](#B-037)
 	38. [B-038 - Pure Pastor Aldante](#B-038)
+
 3. [Jaras to Prioritize](#priority)
 4. [Best Gear per Boon](#boon)
 
